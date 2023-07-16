@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Angenl fish 的 GitHub](https://github-readme-stats.vercel.app/api?username=purexua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/purexua)
 
-<img src="https://github-profile-trophy.vercel.app/?username=purexua&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" /> 
+ 
 
 ### About
 
@@ -45,9 +45,18 @@ Here are some ideas to get you started:
 
 
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=purexua&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/purexua/Design-Patterns">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=purexua&repo=Design-Patterns&show_icons=true&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Design-Patterns" />
+</a>
+
 ------
 
 > <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
 
 
