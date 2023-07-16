@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Angenl fish 的 GitHub](https://github-readme-stats.vercel.app/api?username=purexua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/purexua)
 
- 
+<img src="https://github-profile-trophy.vercel.app/?username=purexua&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" /> 
 
 ### About
 
