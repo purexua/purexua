@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 💬 About
 
--  **Learning :** Full-Stack Development :zap: |   Especially like Java   
--  **Languages :** Java, HTML, Git, 
+-  **Learning :** Full-Stack Development :zap: |   Especially like Java and Go   
+-  **Languages :** Java, HTML, Git, Go
 -  **Hobbies :** Running & Music (Like Eason Chan):headphones:
 -  **Motto :**  纵有疾风起,人生不言弃
 -  **Contact me :** Email: xujh3919@gmail.com
@@ -40,11 +40,12 @@ Here are some ideas to get you started:
 - **spring boot**
 - **Mybatis**
 - **Mybatis-plus**
+- **Design Pattern**
 - ...
 
 ### 📚 Learning
 
-- **Design Pattern**
+- **Docker**
 - ...
 
 ### 📝Cheers and Enjoy :)
