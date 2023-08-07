@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 
+
 ### 💬 About
 
 -  **Learning :** Full-Stack Development :zap: |   Especially like Java and Go   
@@ -33,6 +34,8 @@ Here are some ideas to get you started:
 -  **Hobbies :** Running & Music (Like Eason Chan):headphones:
 -  **Motto :**  纵有疾风起,人生不言弃
 -  **Contact me :** Email: xujh3919@gmail.com
+
+<img src="https://github.com/purexua/purexua/blob/main/icons/code_.gif" alt="Coder GIF" width="500" align=right>
 
 ### 🔥My Skills
 
@@ -51,15 +54,20 @@ Here are some ideas to get you started:
 
 ### 📝Cheers and Enjoy :)
 
-- 我有一个伟大的愿望。我希望凭借自己的努力，净化程序员的环境，提升程序员的地位。愿 IT 界再无黑心企业的剥削，无人自嘲 “码农”、“码畜”，技术人员受到足够尊重，写程序重新成为一种创造性的劳动。软件行业，重新成为令人羡慕的行业。自由、开放、创新、包容。(这是在四火的blog看到的，很有感触)
 - AI时代的座右铭应该是： 谁学得最快，谁就获胜！ 对于国家、企业或个人来说，都是如此。 我们要相信，知识改变命运，知识就是财富，就是实力！
 - ...
 
 ## 🔭GitHub Statistics
 
+<!--
 [![Angenl fish 的 GitHub](https://github-readme-stats.vercel.app/api?username=purexua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/purexua)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact&card_width=240)
+
 ------
+
 
 > <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
