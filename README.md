@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - AI时代的座右铭应该是： 谁学得最快，谁就获胜！ 对于国家、企业或个人来说，都是如此。 我们要相信，知识改变命运，知识就是财富，就是实力！
 - ...
 
-## 🔭GitHub Statistics
+### 🔭GitHub Statistics
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact&card_width=240)
 
