@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 💬 About
 
--  **Learning :** Full-Stack Development :zap: |   Especially like Java and Go   
+-  **Learning :** Full-Stack Development :zap: |   Especially like Java
 -  **Languages :** Java, HTML, Git, Go
 -  **Hobbies :** Running & Music (Like Eason Chan):headphones:
 -  **Motto :**  纵有疾风起,人生不言弃
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 - **Vue**
 - **Spring**
 - **spring boot**
+- **spring MVC**
 - **Mybatis**
-- **Mybatis-plus**
 - **Design Pattern**
 - ...
 
@@ -59,12 +59,7 @@ Here are some ideas to get you started:
 
 ## 🔭GitHub Statistics
 
-<!--
-[![Angenl fish 的 GitHub](https://github-readme-stats.vercel.app/api?username=purexua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/purexua)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact&card_width=240)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purexua&layout=compact&card_width=240)
 
 ------
 
