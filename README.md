@@ -20,8 +20,12 @@ std::cout << "Hello, world !" << std::endl;
 fmt.Println("Hello, world !")
 ```
 
-```shell
+```bash
 echo -e "Hello, world !\n"
+```
+
+```bash
+sudo docker run hello-world
 ```
 
 
