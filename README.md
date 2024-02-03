@@ -28,6 +28,10 @@ echo -e "Hello, world !\n"
 sudo docker run hello-world
 ```
 
+```bash
+redis-cli -a 123456 -p 6379
+```
+
 > [!TIP]
 > ***I love to make friends.** so if you want to say **hi, I'll be happy to meet you more!*** (●ˇ∀ˇ●)
 
