@@ -29,7 +29,7 @@ sudo docker run hello-world
 ```
 
 ```bash
-redis-cli -a 123456 -p 6379
+redis-cli -a password -p 6379
 ```
 
 > [!TIP]
