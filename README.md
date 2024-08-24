@@ -1,35 +1,17 @@
 # Hi everyone :wave:
 
-## 我叫 `purexua`，一个 `xiao` 程序 `猿`
+## About me
+
+Go language lovers， Go programmer，Gopher...
 
 ### **My skills**
-
-```java
- System.out.println("Hello, world !");
-```
-
-```c
-printf("Hello, world !\n");
-```
-
-```c++
-std::cout << "Hello, world !" << std::endl;
-```
 
 ```go
 fmt.Println("Hello, world !")
 ```
 
 ```bash
-echo -e "Hello, world !\n"
-```
-
-```bash
 sudo docker run hello-world
-```
-
-```bash
-redis-cli -a password -p 6379
 ```
 
 > [!TIP]
