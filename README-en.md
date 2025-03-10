@@ -19,7 +19,7 @@ If you want to chat or collaborate, feel free to reach out! I'm always open to n
 - **Email**: [purexua@gmail.com](mailto:purexua@gmail.com)  
 - **GitHub**: [purexua](https://github.com/purexua)  
 - **X (Twitter)**: [purexua](https://x.com/purexua2003)  
-- **Blog**: [Coming soon, stay tuned!]  
+- **Blog**: [Purexua`s Blog](https://blog.purexua.com/)
 
 **“Stay hungry, stay foolish.”** —— Steve Jobs  
 

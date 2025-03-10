@@ -19,7 +19,7 @@ Go 语言爱好者，Go 程序员，Gopher...
 - **邮箱**: [purexua@gmail.com](mailto:purexua@gmail.com)  
 - **GitHub**: [purexua](https://github.com/purexua)  
 - **X (Twitter)**: [purexua](https://x.com/purexua2003)  
-- **博客**: [建设中，敬请期待！]  
+- **博客**: [Purexua`s Blog](https://blog.purexua.com/)
 
 **“Stay hungry, stay foolish.”** —— Steve Jobs
 
