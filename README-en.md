@@ -16,7 +16,7 @@ Go language enthusiast, Go programmer, Gopher...
 
 If you want to chat or collaborate, feel free to reach out! I'm always open to new friends and opportunities! 😄  
 
-- **Email**: [purexua@gmail.com](mailto:purexua@gmail.com)  
+- **Email**: [hi@purexua.com](mailto:hi@purexua.com)  
 - **GitHub**: [purexua](https://github.com/purexua)  
 - **X (Twitter)**: [purexua](https://x.com/purexua2003)  
 - **Blog**: [Purexua`s Blog](https://blog.purexua.com/)

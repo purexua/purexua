@@ -16,7 +16,7 @@ Go 语言爱好者，Go 程序员，Gopher...
 
 如果你想聊天或者合作，随时联系我！我总是开放与新朋友和机会的接触！😄  
 
-- **邮箱**: [purexua@gmail.com](mailto:purexua@gmail.com)  
+- **邮箱**: [hi@purexua.com](mailto:hi@purexua.com)  
 - **GitHub**: [purexua](https://github.com/purexua)  
 - **X (Twitter)**: [purexua](https://x.com/purexua2003)  
 - **博客**: [Purexua`s Blog](https://blog.purexua.com/)
